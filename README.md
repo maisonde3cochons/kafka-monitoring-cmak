@@ -113,6 +113,8 @@ cmak.zkhosts="broker-01:2181"
 > ~/CMAK-3.0.0.5/cmak-3.0.0.5/bin/cmak
 ```
 
+![image](https://user-images.githubusercontent.com/30817824/172545940-fac3365c-4d62-4fb0-9ae1-d20f9893bba8.png)
+
 <br>
 
 #### 04. GCP VPC Network Firewall 설정 (9000 port 허용)
