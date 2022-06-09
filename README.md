@@ -32,7 +32,6 @@
 
 ###  GCP에 접속하여 VM Instance를 생성한다
 
-
 <br>
 
 ### kafka-monitoring 이라는 이름의 인스턴스를 생성(Seoul Region > e2-standard-4)
